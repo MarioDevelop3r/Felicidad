@@ -1,6 +1,6 @@
 // Set the target date and time
 const targetDate = new Date();
-targetDate.setHours(2024, 7, 19 ,13, 0, 0, 0); // Today at 13:00
+targetDate.setHours(13, 0, 0, 0); // Today at 13:00
 
 // Update the countdown every second
 const countdownElement = document.getElementById("countdown");
